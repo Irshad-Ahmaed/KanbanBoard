@@ -7,11 +7,12 @@ export default defineConfig({
   plugins: [react(),
     tailwindcss(),
   ],
-  // theme: {
+})
+
+// theme: {
   //   extends: {
   //     colors: {
   //       "mainBackgroundColor": "#0D1117", #161C22
   //     }
   //   }
   // }
-})
